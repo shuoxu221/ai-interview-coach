@@ -1,0 +1,8 @@
+interface:
+  display_name: "AI真实追问面试教练"
+  short_description: "双模式模拟真实面试，连续追问回答漏洞并生成事实复盘"
+  brand_color: "#B7FF00"
+  default_prompt: "Use $ai-interview-coach to run a truthful mock interview from my target JD and redacted resume."
+
+policy:
+  allow_implicit_invocation: true
